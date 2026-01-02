@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+
+form{
+    border: solid 0px;
+    padding: 30px;
+    width: 350px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    box-shadow: 10px 10px 26px black;
+    border-radius: 33px;
+}
+
+li{
+    list-style-type: none;
+}
